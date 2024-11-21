@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086136108492",
+    "project_id": "fantasy11-fba30",
+    "storage_bucket": "fantasy11-fba30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086136108492:android:8ccd226c7bf1623aeb4969",
+        "android_client_info": {
+          "package_name": "com.example.fantasy11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xmrqss9DscHgFqqzvj-nIfU4xxsrTxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
