@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1086136108492",
-    "project_id": "fantasy11-fba30",
-    "storage_bucket": "fantasy11-fba30.firebasestorage.app"
+    "project_number": "142532746235",
+    "project_id": "win11-23f4f",
+    "storage_bucket": "win11-23f4f.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1086136108492:android:8ccd226c7bf1623aeb4969",
+        "mobilesdk_app_id": "1:142532746235:android:5d12b1d5fe683fb42a095e",
         "android_client_info": {
-          "package_name": "com.example.fantasy11"
+          "package_name": "com.example.win11"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB4xmrqss9DscHgFqqzvj-nIfU4xxsrTxY"
+          "current_key": "AIzaSyDv_EHJrcNAdGYmX6IhmIFBvbyGDN8byJw"
         }
       ],
       "services": {
@@ -27,3 +27,4 @@
   ],
   "configuration_version": "1"
 }
+
