@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "142532746235",
-    "project_id": "win11-23f4f",
-    "storage_bucket": "win11-23f4f.firebasestorage.app"
+    "project_number": "417162138467",
+    "project_id": "jdwin11-900ec",
+    "storage_bucket": "jdwin11-900ec.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:142532746235:android:5d12b1d5fe683fb42a095e",
+        "mobilesdk_app_id": "1:417162138467:android:fdfa3283490b258efdf956",
         "android_client_info": {
           "package_name": "com.example.win11"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDv_EHJrcNAdGYmX6IhmIFBvbyGDN8byJw"
+          "current_key": "AIzaSyABk9XgyIF773nbqO9UQJkaWSw4FHhmHMk"
         }
       ],
       "services": {
@@ -27,4 +27,3 @@
   ],
   "configuration_version": "1"
 }
-
