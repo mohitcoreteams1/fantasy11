@@ -1,4 +1,4 @@
-package com.example.win11
+package app.cricket.win11
 
 import io.flutter.embedding.android.FlutterActivity
 

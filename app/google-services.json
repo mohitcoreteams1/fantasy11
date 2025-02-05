@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "417162138467",
-    "project_id": "jdwin11-900ec",
-    "storage_bucket": "jdwin11-900ec.firebasestorage.app"
+    "project_number": "975651460524",
+    "project_id": "cricketwin11-3341d",
+    "storage_bucket": "cricketwin11-3341d.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:417162138467:android:fdfa3283490b258efdf956",
+        "mobilesdk_app_id": "1:975651460524:android:7921fb23ed4feb73861609",
         "android_client_info": {
-          "package_name": "com.example.win11"
+          "package_name": "app.cricket.win11"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyABk9XgyIF773nbqO9UQJkaWSw4FHhmHMk"
+          "current_key": "AIzaSyDAas6IA6qx4OTf1AZ-HIqrY48s5VdaKnw"
         }
       ],
       "services": {
