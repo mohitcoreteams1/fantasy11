@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "975651460524",
-    "project_id": "cricketwin11-3341d",
-    "storage_bucket": "cricketwin11-3341d.firebasestorage.app"
+    "project_number": "1086136108492",
+    "project_id": "fantasy11-fba30",
+    "storage_bucket": "fantasy11-fba30.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:975651460524:android:7921fb23ed4feb73861609",
+        "mobilesdk_app_id": "1:1086136108492:android:76688203c697b351eb4969",
         "android_client_info": {
           "package_name": "app.cricket.win11"
         }
@@ -15,7 +15,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDAas6IA6qx4OTf1AZ-HIqrY48s5VdaKnw"
+          "current_key": "AIzaSyB4xmrqss9DscHgFqqzvj-nIfU4xxsrTxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086136108492:android:8ccd226c7bf1623aeb4969",
+        "android_client_info": {
+          "package_name": "com.example.fantasy11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xmrqss9DscHgFqqzvj-nIfU4xxsrTxY"
         }
       ],
       "services": {
