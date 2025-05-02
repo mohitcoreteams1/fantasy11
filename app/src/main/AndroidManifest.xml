@@ -7,7 +7,6 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
-
     <uses-feature android:name="android.hardware.location.gps"/>
 
 
@@ -51,6 +50,13 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+<!--        <meta-data android:name="com.phonepe.android.sdk.isUAT" android:value="false"/>-->
+<!--        <meta-data android:name="com.phonepe.android.sdk.isSimulator" android:value="false"/>-->
+<!--        <meta-data android:name="com.phonepe.android.sdk.MerchantId" android:value="M228NKW3HRM88"/>-->
+<!--        <meta-data android:name="com.phonepe.android.sdk.AppId" android:value="appId"/>-->
+<!--        <meta-data-->
+<!--            android:name="com.google.android.gms.ads.APPLICATION_ID"-->
+<!--            android:value="ca-app-pub-1258933101014376~4098172541" />-->
 <!--        <meta-data-->
 <!--            android:name="com.google.android.geo.API_KEY"-->
 <!--            android:value="AIzaSyDoFGusGnGwn-WjQnvH2jIDeAdtyXVxhNU"/>-->
