@@ -4,9 +4,8 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.4.2'
+        classpath 'com.android.tools.build:gradle:8.10.0'
         classpath 'com.google.gms:google-services:4.3.15'
-
     }
 }
 
@@ -32,3 +31,8 @@ subprojects {
 tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
+
+
+//Unhandled exception:
+//FileSystemException: writeFrom failed, path = 'C:\Users\ravin\AppData\Local\Temp\flutter_tools.50e3c2e1\flutter_tool.cd779d29\app.dill' (OS Error: There is not enough space on the
+//        disk.
